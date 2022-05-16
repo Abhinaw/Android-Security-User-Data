@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Globomantics Sales</string>
+    <string name="title_add_client">Add Client</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_clients">Clients</string>
+    <string name="title_client_details">Client Details</string>
+
+    <string name="date_label">Meeting Date:</string>
+    <string name="name">Client Name</string>
+    <string name="save">Save</string>
+    <string name="order">Order</string>
+    <string name="terms">Terms</string>
+
+    <string name="profile_name">Name</string>
+    <string name="profile_preference_key">profile</string>
+    <string name="profile_name_key">name_key</string>
+    <string name="profile_name_default" />
+    <string name="profile_success">Name updated successfully!</string>
+
+    <string name="proposal_button">Generate Proposal</string>
+    <string name="files">Files</string>
+    <string name="picture_button">Add Picture</string>
+</resources>
